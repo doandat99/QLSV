@@ -1,0 +1,31 @@
+@import 'antd/dist/antd.css';
+
+.ant-layout {
+  background: none;
+}
+
+.ant-layout .ant-layout-header {
+  text-align: center;
+  font-size: 2em;
+  background: #f0f2f5;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+main {
+  width: 90vw;
+  max-width: 1170px;
+  margin: 0 auto;
+  margin-top: 3em;
+}
+
+.App {
+  height: 100vh;
+}
+.ant-table-wrapper{
+  width: 90vw;
+  max-width: 1170px;
+  margin: 0 auto;
+}
